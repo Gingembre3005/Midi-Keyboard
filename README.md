@@ -19,11 +19,11 @@ There are small pictures on the front and the back of the board to give the ocea
 
 ## Picture of the front of the PCB:
 
-![My Project](front/PCB.png)
+![My Project](Pictures/front.png)
 
 ## Picture of the back of the PCB:
 
-![My Project](back/PCB.png)
+![My Project](Pictures/back.png)
 
 ## Firmware:
 
